@@ -1,0 +1,2 @@
+Link website with nuxt:
+https://nuxtjs-jeanp94.vercel.app/
